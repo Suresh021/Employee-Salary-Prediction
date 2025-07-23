@@ -62,6 +62,8 @@ The goal is to classify an employee's income into two categories: `>50K` or `≤
 
 <img width="1920" height="1080" alt="Screenshot 2025-07-23 182156" src="https://github.com/user-attachments/assets/c30dfd85-f5f3-4d1a-980d-7544eca00a10" />
 
+---
+
 ✅ Results
 
 ---
